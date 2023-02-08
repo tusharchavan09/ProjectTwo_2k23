@@ -1,0 +1,9 @@
+SRS ----> Softerware Requirments Specification
+	
+	It is combination of Software requirement specification & Functional requirements specification.
+
+SRS documents consits :- 1) Analaysis the srs docu.
+				 2) Test Case 
+				 3) Functional flow daigram
+				 4) Sanp shot/Review prototype
+				 5) HLD Documents
